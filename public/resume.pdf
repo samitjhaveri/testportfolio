@@ -1,0 +1,18 @@
+This is a placeholder for the resume PDF file.
+
+In a real implementation, this would be a PDF file containing:
+
+- Contact Information
+- Professional Summary
+- Work Experience
+- Education
+- Skills
+- Projects
+- Certifications
+
+To add a real PDF:
+1. Create or export your resume as a PDF
+2. Save it as "resume.pdf" in the public folder
+3. The download link in the navigation will work automatically
+
+For now, this text file serves as a placeholder to demonstrate the download functionality.
